@@ -18,7 +18,7 @@
 
     <!-- initial pose -->
     <arg name="x" default="0.0"/>
-    <arg name="y" default="-2.69"/>
+    <arg name="y" default="-2.62"/>
     <arg name="z" default="0.0"/>
     <arg name="yaw" default="0.0"/>
 
